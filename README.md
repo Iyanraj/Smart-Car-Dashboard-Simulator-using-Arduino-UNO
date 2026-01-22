@@ -1,0 +1,2 @@
+# Smart-Car-Dashboard-Simulator-using-Arduino-UNO
+Smart Car Dashboard Simulator using Arduino UNO is a project designed to simulate key vehicle functions including gear shifting, left and right indicators, reverse gear indication, brake status, horn operation, along with speed and other basic parameters. It offers a realistic and structured as automotive dashboard operation using embedded systems.
